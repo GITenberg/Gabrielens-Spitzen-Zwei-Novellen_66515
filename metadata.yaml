@@ -1,11 +1,16 @@
 _repo: Gabrielens-Spitzen-Zwei-Novellen_66515
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66515-h/images/cover.jpg
 creator:
   author:
     agent_name: Auer, Grethe
     gutenberg_agent_id: '53849'
     url: http://www.gutenberg.org/2009/agents/53849
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66515#Gabrielens-Spitzen-Zwei-Novellen
 gutenberg_issued: '2021-10-11'
 identifiers:
   gutenberg: '66515'
